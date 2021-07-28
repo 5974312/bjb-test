@@ -1,0 +1,19 @@
+#poster {
+  top: #f6f7fc;
+  bottom: #f6f7fc;
+}
+.sss {
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #f6f7fc 0%, #f6f7fc 40%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 500px;
+}
