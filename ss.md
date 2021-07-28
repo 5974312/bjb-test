@@ -8,3 +8,11 @@ git init
 git add ss.md
 git commit -m '第一次'
 提交到仓库完成 有一个版本
+查看所有版本
+git log
+222222222
+查看仓库状态
+git status
+333333333
+撤销
+git restore
